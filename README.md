@@ -7,13 +7,13 @@ GEO = Generative Engine Optimization. The set of practices that get your content
 ## What this repo contains
 
 - `README.md`: this file, with the audit philosophy
-- `00-pre-audit.md`: data you need before starting
-- `01-discoverability.md`: can AI engines find and parse your site
-- `02-passage-quality.md`: are individual paragraphs citable
-- `03-eeat-signals.md`: Experience, Expertise, Authoritativeness, Trust
-- `04-structured-data.md`: schema markup audit
-- `05-content-architecture.md`: how pages connect and reinforce each other
-- `06-monitoring.md`: how to know if it's working
+- [00-pre-audit.md](00-pre-audit.md): data you need before starting
+- [01-discoverability.md](01-discoverability.md): can AI engines find and parse your site
+- [02-passage-quality.md](02-passage-quality.md): are individual paragraphs citable
+- [03-eeat-signals.md](03-eeat-signals.md): Experience, Expertise, Authoritativeness, Trust
+- [04-structured-data.md](04-structured-data.md): schema markup audit
+- [05-content-architecture.md](05-content-architecture.md): how pages connect and reinforce each other
+- [06-monitoring.md](06-monitoring.md): how to know if it's working
 - `playbook-saas.md`: GEO checklist tuned for a SaaS site
 - `playbook-local-business.md`: GEO checklist tuned for a local business
 - `playbook-blog.md`: GEO checklist tuned for an editorial/blog site
@@ -22,7 +22,7 @@ GEO = Generative Engine Optimization. The set of practices that get your content
 
 ## How to use
 
-1. Read `00-pre-audit.md` first. You need referral logs and a current site map.
+1. Read [00-pre-audit.md](00-pre-audit.md) first. You need referral logs and a current site map.
 2. Pick the playbook closest to your site type.
 3. Work through each section in order. Each item has pass/fail criteria.
 4. Use the linked tools (built by 0xelitesystem) for the items that need them.
@@ -53,6 +53,10 @@ This checklist covers all four.
 - Not a guarantee. AI engines are opaque about why they cite what they cite.
 - Not a one-time audit. Rerun quarterly; AI behavior shifts.
 - Not a substitute for classic SEO. Run both. They overlap by about 60 percent and the parts that don't overlap are the high-leverage ones.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
