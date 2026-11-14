@@ -35,7 +35,7 @@ GEO = Generative Engine Optimization. The set of practices that get your content
 | Passage quality | [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer) |
 | E-E-A-T signals | [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor) |
 | Structured data | [schema-markup-generator](https://github.com/0xelitesystem/schema-markup-generator), [structured-data-examples](https://github.com/0xelitesystem/structured-data-examples) |
-| Monitoring | [brand-mention-tracker](https://github.com/0xelitesystem/brand-mention-tracker) |
+| Monitoring | [brand-mention-playbook](https://github.com/0xelitesystem/brand-mention-playbook) |
 
 ## The core hypothesis
 

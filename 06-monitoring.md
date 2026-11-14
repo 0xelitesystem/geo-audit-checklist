@@ -11,7 +11,7 @@ How to know if your GEO work is paying off. AI engines do not give you analytics
 - [ ] Talkwalker Alerts or Mention.com as backup (catches mentions Google misses)
 - [ ] Monthly review of new mentions logged in a spreadsheet
 
-See [brand-mention-tracker](https://github.com/0xelitesystem/brand-mention-tracker) for templates.
+See [brand-mention-playbook](https://github.com/0xelitesystem/brand-mention-playbook) for templates.
 
 ### AI engine direct test
 
@@ -64,7 +64,7 @@ GEO is a 90-day feedback loop, not a 7-day one. Patience.
 
 ## Companion tool
 
-[brand-mention-tracker](https://github.com/0xelitesystem/brand-mention-tracker) has the spreadsheet templates for everything in this section.
+[brand-mention-playbook](https://github.com/0xelitesystem/brand-mention-playbook) has the spreadsheet templates for everything in this section.
 
 ## You're done
 

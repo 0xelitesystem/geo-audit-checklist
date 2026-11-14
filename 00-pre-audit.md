@@ -18,7 +18,7 @@ Before you start auditing, collect this data. Without it the audit produces gues
 | Item | Why |
 |---|---|
 | Bing Webmaster Tools data | Bing powers Copilot, so this is a direct AI signal |
-| Brand mention scrape (last 6 months) | Use [brand-mention-tracker](https://github.com/0xelitesystem/brand-mention-tracker) to set this up |
+| Brand mention scrape (last 6 months) | Use [brand-mention-playbook](https://github.com/0xelitesystem/brand-mention-playbook) to set this up |
 | Manual AI engine test results | Ask ChatGPT, Claude, Perplexity, Gemini about your brand and topics; save the answers |
 
 ## How to identify AI bots in logs
