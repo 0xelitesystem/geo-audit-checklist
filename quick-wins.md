@@ -4,7 +4,7 @@ Ten changes you can make in under an hour each. Do these before the full audit i
 
 ## 1. Create llms.txt (20 minutes)
 
-Use [llms-txt-generator](https://github.com/0xelitesystem/llms-txt-generator). List your top 10 pages with specific descriptions. Upload to site root.
+Use [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder). List your top 10 pages with specific descriptions. Upload to site root.
 
 ## 2. Update robots.txt (15 minutes)
 

@@ -32,7 +32,7 @@ Use [robots-txt-ai-builder](https://github.com/0xelitesystem/robots-txt-ai-build
 - [ ] Grouped into logical sections (Products, Reference, Pricing, etc)
 - [ ] Tagline and brand paragraph are concrete, not adjectives
 
-Use [llms-txt-generator](https://github.com/0xelitesystem/llms-txt-generator).
+Use [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder).
 
 ### Page-level basics
 

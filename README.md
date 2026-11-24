@@ -31,7 +31,7 @@ GEO = Generative Engine Optimization. The set of practices that get your content
 
 | Section | Tool |
 |---|---|
-| Discoverability | [llms-txt-generator](https://github.com/0xelitesystem/llms-txt-generator), [robots-txt-ai-builder](https://github.com/0xelitesystem/robots-txt-ai-builder) |
+| Discoverability | [llms-txt-file-builder](https://github.com/0xelitesystem/llms-txt-file-builder), [robots-txt-ai-builder](https://github.com/0xelitesystem/robots-txt-ai-builder) |
 | Passage quality | [ai-citability-scorer](https://github.com/0xelitesystem/ai-citability-scorer) |
 | E-E-A-T signals | [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor) |
 | Structured data | [schema-markup-generator](https://github.com/0xelitesystem/schema-markup-generator), [structured-data-examples](https://github.com/0xelitesystem/structured-data-examples) |
