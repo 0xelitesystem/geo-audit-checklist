@@ -37,7 +37,7 @@ Experience, Expertise, Authoritativeness, Trust. Google introduced E-A-T in 2014
 
 ## Tool
 
-Run any page's HTML through [e-e-a-t-auditor](https://github.com/0xelitesystem/e-e-a-t-auditor) for a scored breakdown across all 13 checks.
+Run any page's HTML through [page-trust-signals-auditor](https://github.com/0xelitesystem/page-trust-signals-auditor) for a scored breakdown across all 13 checks.
 
 ## Audit procedure
 
