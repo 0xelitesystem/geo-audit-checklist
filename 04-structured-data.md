@@ -51,8 +51,8 @@ Schema markup is the structured-data layer AI engines parse to disambiguate your
 
 ## Tools
 
-- [schema-markup-generator](https://github.com/0xelitesystem/schema-markup-generator): generate JSON-LD for 12 types
-- [structured-data-examples](https://github.com/0xelitesystem/structured-data-examples): real-world JSON-LD examples to study
+- [json-ld-markup-builder](https://github.com/0xelitesystem/json-ld-markup-builder): generate JSON-LD for 12 types
+- [json-ld-business-examples](https://github.com/0xelitesystem/json-ld-business-examples): real-world JSON-LD examples to study
 - Google Rich Results Test: validate every schema block before publishing
 - Schema.org validator: catch issues the Google tool misses
 

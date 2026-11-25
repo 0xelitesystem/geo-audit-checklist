@@ -12,7 +12,7 @@ Use [robots-txt-ai-builder](https://github.com/0xelitesystem/robots-txt-ai-build
 
 ## 3. Add Organization schema to homepage (10 minutes)
 
-Use [schema-markup-generator](https://github.com/0xelitesystem/schema-markup-generator). Set name, URL, logo, sameAs (social profiles). Drop the JSON-LD in your `<head>`.
+Use [json-ld-markup-builder](https://github.com/0xelitesystem/json-ld-markup-builder). Set name, URL, logo, sameAs (social profiles). Drop the JSON-LD in your `<head>`.
 
 ## 4. Add Person schema for the founder (15 minutes)
 
